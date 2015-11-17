@@ -1,3 +1,8 @@
+courses/
+secrets.json
+index.db
+whoosh_index/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
